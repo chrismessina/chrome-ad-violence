@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Butcherman&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Science+Gothic:wght@800&display=swap');
 
 body {
   width: 300px;
@@ -17,12 +17,13 @@ body {
 
 h1 {
   margin: 0;
-  font-family: 'Butcherman', cursive;
-  font-size: 28px;
+  font-family: 'Science Gothic', 'Arial Black', sans-serif;
+  font-weight: 800;
+  font-size: 32px;
   text-align: center;
   color: #ff4444;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 3px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
