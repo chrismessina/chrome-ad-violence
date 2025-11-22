@@ -1,0 +1,53 @@
+{
+  "manifest_version": 3,
+  "name": "Ad Violence",
+  "version": "1.0",
+  "description": "Destructive overlay for web pages.",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "assets/icon16.png",
+      "48": "assets/icon48.png",
+      "128": "assets/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "assets/icon16.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "commands": {
+    "toggle-violence": {
+      "suggested_key": {
+        "default": "Alt+V",
+        "mac": "Alt+V"
+      },
+      "description": "Toggle Violence Mode"
+    }
+  },
+  "background": {
+    "service_worker": "background/background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content/effects_engine.js", "content/persistence.js", "content/audio_manager.js", "content/content.js"],
+      "css": ["content/style.css", "content/ui_effects.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["assets/*", "assets/models/*", "popup/armory.html", "popup/armory.js", "popup/armory.css"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

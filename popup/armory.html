@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Armory - Ad Violence</title>
+    <link rel="stylesheet" href="armory.css">
+</head>
+
+<body>
+    <div id="armory-container">
+        <!-- Close Button -->
+        <button id="close-btn" class="close-btn" title="Close Armory (ESC)">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+        </button>
+
+        <!-- Header -->
+        <div class="armory-header">
+            <h1>ARMORY</h1>
+            <p class="subtitle">Select Your Weapon</p>
+        </div>
+
+        <!-- 3D Canvas -->
+        <canvas id="weapon-canvas"></canvas>
+
+        <!-- Weapon Grid -->
+        <div class="weapons-container">
+            <div class="weapon-card" data-weapon="pistol">
+                <div class="weapon-preview" id="preview-pistol"></div>
+                <div class="weapon-info">
+                    <h3>Pistol</h3>
+                    <p>Standard sidearm. Reliable and accurate.</p>
+                </div>
+            </div>
+
+            <div class="weapon-card" data-weapon="shotgun">
+                <div class="weapon-preview" id="preview-shotgun"></div>
+                <div class="weapon-info">
+                    <h3>Shotgun</h3>
+                    <p>Close-range devastation. Wide spread.</p>
+                </div>
+            </div>
+
+            <div class="weapon-card" data-weapon="flamethrower">
+                <div class="weapon-preview" id="preview-flamethrower"></div>
+                <div class="weapon-info">
+                    <h3>Flamethrower</h3>
+                    <p>Continuous fire. Area damage.</p>
+                </div>
+            </div>
+
+            <div class="weapon-card" data-weapon="rpg">
+                <div class="weapon-preview" id="preview-rpg"></div>
+                <div class="weapon-info">
+                    <h3>RPG</h3>
+                    <p>Explosive power. High damage.</p>
+                </div>
+            </div>
+
+            <div class="weapon-card" data-weapon="rifle">
+                <div class="weapon-preview" id="preview-rifle"></div>
+                <div class="weapon-info">
+                    <h3>Automatic Rifle</h3>
+                    <p>Rapid fire. High capacity.</p>
+                </div>
+            </div>
+
+            <div class="weapon-card" data-weapon="laser">
+                <div class="weapon-preview" id="preview-laser"></div>
+                <div class="weapon-info">
+                    <h3>Laser</h3>
+                    <p>Precision energy weapon. Instant hit.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Loading Indicator -->
+        <div id="loading-overlay">
+            <div class="loading-spinner"></div>
+            <p>Loading Armory...</p>
+        </div>
+    </div>
+
+    <!-- Three.js Library (local) -->
+    <script type="module" src="armory.js"></script>
+</body>
+
+</html>

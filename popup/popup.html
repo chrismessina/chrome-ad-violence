@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ad Violence</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>Ad Violence</h1>
+
+    <div class="toggle-container">
+      <label class="switch">
+        <input type="checkbox" id="violence-toggle">
+        <span class="slider round"></span>
+      </label>
+      <span id="status-text">Violence: OFF</span>
+    </div>
+
+    <div class="options-container">
+      <label class="checkbox-label">
+        <input type="checkbox" id="tactical-toggle">
+        <span>Tactical Mode (Highlight Targets)</span>
+      </label>
+      <label class="checkbox-label">
+        <input type="checkbox" id="debug-toggle">
+        <span>Debug Mode (Show Health)</span>
+      </label>
+    </div>
+
+    <div class="weapon-selector">
+      <h2>Choose Weapon</h2>
+      <div class="weapons-grid">
+        <button class="weapon-btn active" data-weapon="pistol">
+          🔫 Pistol
+        </button>
+        <button class="weapon-btn" data-weapon="shotgun">
+          💥 Shotgun
+        </button>
+        <button class="weapon-btn" data-weapon="flamethrower">🔥 Flamethrower</button>
+        <button class="weapon-btn" data-weapon="rpg">🚀 RPG</button>
+        <button class="weapon-btn" data-weapon="rifle">💀 Automatic Rifle</button>
+        <button class="weapon-btn" data-weapon="laser">⚡ Laser</button>
+      </div>
+      <button id="open-armory-btn" class="armory-btn">🎯 Open Armory</button>
+    </div>
+
+    <div class="actions">
+      <button id="reset-btn" class="danger-btn">Reset Damage</button>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+
+</html>

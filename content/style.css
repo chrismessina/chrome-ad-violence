@@ -1,0 +1,4 @@
+/* Styles injected into the page */
+#add-violence-canvas {
+    pointer-events: none;
+}

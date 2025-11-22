@@ -1,0 +1,13 @@
+background.js:3 Ad Violence extension installed
+armory.html:1 Loading the script 'https://cdn.jsdelivr.net/npm/three@0.167.0/build/three.min.js' violates the following Content Security Policy directive: "script-src 'self'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The action has been blocked.
+armory.html:1 Loading the script 'https://cdn.jsdelivr.net/npm/three@0.167.0/build/three.min.js' violates the following Content Security Policy directive: "script-src 'self' 'wasm-unsafe-eval' 'inline-speculation-rules' http://localhost:* http://127.0.0.1:*". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The action has been blocked.
+armory.html:1 Loading the script 'https://cdn.jsdelivr.net/npm/three@0.167.0/examples/js/loaders/GLTFLoader.js' violates the following Content Security Policy directive: "script-src 'self'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The action has been blocked.
+armory.html:1 Loading the script 'https://cdn.jsdelivr.net/npm/three@0.167.0/examples/js/loaders/GLTFLoader.js' violates the following Content Security Policy directive: "script-src 'self' 'wasm-unsafe-eval' 'inline-speculation-rules' http://localhost:* http://127.0.0.1:*". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The action has been blocked.
+armory.html:1 Loading the script 'https://cdn.jsdelivr.net/npm/three@0.167.0/examples/js/controls/OrbitControls.js' violates the following Content Security Policy directive: "script-src 'self'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The action has been blocked.
+armory.html:1 Loading the script 'https://cdn.jsdelivr.net/npm/three@0.167.0/examples/js/controls/OrbitControls.js' violates the following Content Security Policy directive: "script-src 'self' 'wasm-unsafe-eval' 'inline-speculation-rules' http://localhost:* http://127.0.0.1:*". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The action has been blocked.
+armory.js:58 Uncaught (in promise) ReferenceError: THREE is not defined
+    at loadAllWeapons (armory.js:58:20)
+    at init (armory.js:47:11)
+    at async HTMLDocument.<anonymous> (armory.js:25:5)
+loadAllWeapons @ armory.js:58
+init @ armory.js:47

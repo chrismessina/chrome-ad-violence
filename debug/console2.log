@@ -1,0 +1,16 @@
+content.js:334 Uncaught TypeError: persistenceManager.saveImpact is not a function
+    at performShot (content.js:334:22)
+    at HTMLCanvasElement.handleMouseDown (content.js:273:3)
+performShot @ content.js:334
+handleMouseDown @ content.js:273
+content.js:334 Uncaught TypeError: persistenceManager.saveImpact is not a function
+    at performShot (content.js:334:22)
+    at HTMLCanvasElement.handleMouseDown (content.js:273:3)
+performShot @ content.js:334
+handleMouseDown @ content.js:273
+content.js:334 Uncaught TypeError: persistenceManager.saveImpact is not a function
+    at performShot (content.js:334:22)
+    at HTMLCanvasElement.handleMouseDown (content.js:273:3)
+performShot @ content.js:334
+handleMouseDown @ content.js:273
+(index):1 The resource https://static01.nyt.com/images/2025/11/19/business/economy/depillis-thumb-1/depillis-thumb-1-verticalTwoByThree735.jpg?auto=webp&quality=30&disable=upscale&format=pjpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.

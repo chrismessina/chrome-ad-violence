@@ -1,0 +1,1108 @@
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at EffectsEngine.addImpact (effects_engine.js:59:10)
+    at performShot (content.js:331:17)
+    at HTMLCanvasElement.handleMouseDown (content.js:273:3)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+addImpact @ effects_engine.js:59
+performShot @ content.js:331
+handleMouseDown @ content.js:273
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.clearHighlight (effects_engine.js:174:10)
+    at HTMLCanvasElement.handleMouseLeave (content.js:299:19)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+clearHighlight @ effects_engine.js:174
+handleMouseLeave @ content.js:299
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+content.js:334 Uncaught TypeError: persistenceManager.saveImpact is not a function
+    at performShot (content.js:334:22)
+    at HTMLCanvasElement.handleMouseDown (content.js:273:3)
+performShot @ content.js:334
+handleMouseDown @ content.js:273
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+(index):1 The resource https://static01.nyt.com/images/2025/11/19/business/economy/depillis-thumb-1/depillis-thumb-1-verticalTwoByThree735.jpg?auto=webp&quality=30&disable=upscale&format=pjpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+(index):1 The resource https://static01.nyt.com/images/2025/11/19/business/economy/depillis-thumb-1/depillis-thumb-1-verticalTwoByThree735.jpg?auto=webp&quality=30&disable=upscale&format=pjpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.drawHighlight (effects_engine.js:169:10)
+    at HTMLCanvasElement.handleMouseMove (content.js:246:21)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'scale')
+    at EffectsEngine.drawScorchMark (effects_engine.js:132:33)
+    at EffectsEngine.drawExplosion (effects_engine.js:213:10)
+    at EffectsEngine.drawImpact (effects_engine.js:80:14)
+    at effects_engine.js:270:41
+    at Array.forEach (<anonymous>)
+    at EffectsEngine.redrawAll (effects_engine.js:270:18)
+    at EffectsEngine.clearHighlight (effects_engine.js:174:10)
+    at HTMLCanvasElement.handleMouseLeave (content.js:299:19)
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+clearHighlight @ effects_engine.js:174
+handleMouseLeave @ content.js:299
+effects_engine.js:132 Uncaught 
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+drawHighlight @ effects_engine.js:169
+handleMouseMove @ content.js:246
+effects_engine.js:132 Uncaught 
+drawScorchMark @ effects_engine.js:132
+drawExplosion @ effects_engine.js:213
+drawImpact @ effects_engine.js:80
+(anonymous) @ effects_engine.js:270
+redrawAll @ effects_engine.js:270
+clearHighlight @ effects_engine.js:174
+handleMouseLeave @ content.js:299
